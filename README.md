@@ -4,5 +4,12 @@ This repository contains code examples for a condensed course on *Design Pattern
 
 
 
+## Sequence
+
+  01. Introduction: Why Design Patterns?
+  02. Topics
+
+
+
 
 
