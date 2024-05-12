@@ -6,7 +6,7 @@ This repository contains code examples for a condensed course on *Design Pattern
 
 ## Sequence
 
-  01. Why Design Patterns?
+  01. Introduction: A Bit of Motivation
   02. Course Outline
 
   03. First Things First: C/C++ Code Management
