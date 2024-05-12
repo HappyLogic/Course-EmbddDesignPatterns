@@ -8,10 +8,13 @@ This repository contains code examples for a condensed course on *Design Pattern
 
   01. Why Design Patterns?
   02. Course Outline
-  03. Introduction to Design Patterns
-  04. Comparison with Traditional Programming
-  05. Creational Patterns: Factory Method, Singleton
-  06. Structural Patterns: Adapter, Decorator, Facade
-  07. Behavioral Patterns: State Machine, Observer, Strategy
-  08. Best practices: Memory Usage, Code Size, Realtime Constraints
+  03. First Things First: C/C++ Code Management
+  * &nbsp; &nbsp; &nbsp;   Exercise, Solution
+  04. Introduction to Design Patterns
+  05. Comparison with Traditional Programming: Hosted vs Freestanding
+  06. Creational Patterns: Factory Method, Singleton
+  07. Structural Patterns: Adapter, Decorator, Facade
+  08. Behavioral Patterns: State Machine, Observer, Strategy
+  09. SOLID Principles in Embedded Design
+  10. Best Practices
   
