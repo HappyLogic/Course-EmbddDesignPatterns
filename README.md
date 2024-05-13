@@ -10,7 +10,7 @@ This repository contains code examples for a condensed course on *Design Pattern
   02. Course Outline
 
   03. First Things First: C/C++ Code Management
-  * &nbsp; &nbsp; &nbsp;   Sample Begin, Sample End
+  * &nbsp; &nbsp; &nbsp;   Sample Start, Sample End
   * &nbsp; &nbsp; &nbsp;   Exercise, Solution
 
   04. Introduction to Design Patterns
@@ -43,5 +43,5 @@ This repository contains code examples for a condensed course on *Design Pattern
 
 
 
-  
+
   
