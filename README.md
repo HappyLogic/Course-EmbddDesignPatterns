@@ -7,14 +7,16 @@ This repository contains code examples for a condensed course on *Design Pattern
 ## Sequence
 
   01. Introduction: A Bit of Motivation
+  
   02. Course Outline
 
   03. First Things First: C/C++ Code Management
   * &nbsp; &nbsp; &nbsp;   Sample ( Start , End )
   * &nbsp; &nbsp; &nbsp;   Exercise - Solution
 
-  04. Introduction to Design Patterns
-  05. Comparison with Traditional Programming: Hosted vs Freestanding
+  04. Constraints: Hosted vs Freestanding
+  
+  05. Object-Oriented Design Patterns
   
   06. Creational Patterns: Factory Method, Singleton
   * &nbsp; &nbsp; &nbsp;   Sample ( 1 , 2 )
