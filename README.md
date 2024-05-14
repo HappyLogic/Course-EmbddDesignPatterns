@@ -33,7 +33,7 @@ This repository contains code examples for a condensed course on *Design Pattern
   * &nbsp; &nbsp; &nbsp;   Exercise 2 - Solution
   * &nbsp; &nbsp; &nbsp;   Exercise 3 - Solution
   
-  09. SOLID Principles in Embedded Design
+  09. SOLID Principles in Embedded Applications
   * &nbsp; &nbsp; &nbsp;   Sample ( 1 , 2 )
   * &nbsp; &nbsp; &nbsp;   Exercise 1 - Solution
   * &nbsp; &nbsp; &nbsp;   Exercise 2 - Solution
