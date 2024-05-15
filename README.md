@@ -11,7 +11,7 @@ This repository contains code examples for a condensed course on *Design Pattern
   02. Course Outline
 
   03. First Things First: C & C++ Code Management
-  * &nbsp; &nbsp; &nbsp;   Example ( [Begin](Src/03. First Things First/Example/Begin) , [End](Src/03. First Things First/Example/End) )
+  * &nbsp; &nbsp; &nbsp;   Example ( [Begin](./Src/03. First Things First/Example/Begin) , [End](./Src/03. First Things First/Example/End) )
   * &nbsp; &nbsp; &nbsp;   Exercise - Solution
 
   04. Constraints: Hosted vs Freestanding
