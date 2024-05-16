@@ -1,6 +1,5 @@
 #include "MotorControl.h"
 
-
 void setup()
 {
   setupMotorPins();
