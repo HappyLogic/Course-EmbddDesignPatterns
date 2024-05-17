@@ -19,7 +19,7 @@ This repository contains code examples for a condensed course on *Design Pattern
   05. Object-Oriented Design Patterns
   
   06. Creational Patterns: Factory Method, Singleton
-  * &nbsp; &nbsp; &nbsp;   Example ( [1](./Src/06.%20Creational%20Patterns/Ex1-Singleton) , [2]() , [3]() )
+  * &nbsp; &nbsp; &nbsp;   Example ( [1](./Src/06.%20Creational%20Patterns/Ex1-Singleton) , [2](./Src/06.%20Creational%20Patterns/Ex2-Factory) , [3]() )
 
   07. Structural Patterns: Adapter, Decorator, Facade
   * &nbsp; &nbsp; &nbsp;   Example ( [1]() , [2]() , [3]() )
