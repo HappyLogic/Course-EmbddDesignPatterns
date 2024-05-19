@@ -23,9 +23,6 @@ This repository contains code examples for a condensed course on *Design Pattern
 
   07. Structural Patterns: Adapter, Decorator, Facade
   * &nbsp; &nbsp; &nbsp;   Example ( [1]() , [2]() , [3]() )
-  * &nbsp; &nbsp; &nbsp;   [Exercise 1]() - [Solution]()
-  * &nbsp; &nbsp; &nbsp;   [Exercise 2]() - [Solution]()
-  * &nbsp; &nbsp; &nbsp;   [Exercise 3]() - [Solution]()
   
   08. Behavioral Patterns: State Machine, Observer, Strategy
   * &nbsp; &nbsp; &nbsp;   Example ( [1]() , [2]() , [3]() )
