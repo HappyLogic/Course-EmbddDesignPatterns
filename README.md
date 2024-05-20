@@ -22,7 +22,7 @@ This repository contains code examples for a condensed course on *Design Pattern
   * &nbsp; &nbsp; &nbsp;   Example ( [1](./Src/06.%20Creational%20Patterns/Ex1-Singleton) , [2](./Src/06.%20Creational%20Patterns/Ex2-Factory) , [3](./Src/06.%20Creational%20Patterns/Ex3-Globals) )
 
   07. Structural Patterns: Adapter, Decorator, Facade
-  * &nbsp; &nbsp; &nbsp;   Example ( [1](./Src/07.%20Structural%20Patterns/Ex1-Adapter) , [2]() , [3]() )
+  * &nbsp; &nbsp; &nbsp;   Example ( [1](./Src/07.%20Structural%20Patterns/Ex1-Adapter) , [2](./Src/07.%20Structural%20Patterns/Ex2-Decorator) , [3]() )
   
   08. Behavioral Patterns: State Machine, Observer, Strategy
   * &nbsp; &nbsp; &nbsp;   Example ( [1]() , [2]() , [3]() )
