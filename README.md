@@ -25,7 +25,7 @@ This repository contains code examples for a condensed course on *Design Pattern
   * &nbsp; &nbsp; &nbsp;   Example ( [1](./Src/07.%20Structural%20Patterns/Ex1-Adapter) , [2](./Src/07.%20Structural%20Patterns/Ex2-Decorator) )
   
   08. Behavioral Patterns: State Machine, Observer, Strategy
-  * &nbsp; &nbsp; &nbsp;   Example ( [1](./Src/08.%20Behavioral%20Patterns/Ex1-StateMachine) , [2](./Src/08.%20Behavioral%20Patterns/Ex2-Observer) , [3]() )
+  * &nbsp; &nbsp; &nbsp;   Example ( [1](./Src/08.%20Behavioral%20Patterns/Ex1-StateMachine) , [2](./Src/08.%20Behavioral%20Patterns/Ex2-Observer) , [3](./Src/08.%20Behavioral%20Patterns/Ex3-Strategy) )
   
   09. SOLID Principles in Embedded Applications
   * &nbsp; &nbsp; &nbsp;   Example ( [1]() , [2]() )
