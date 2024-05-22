@@ -30,7 +30,6 @@ This repository contains code examples for a condensed course on *Design Pattern
   09. SOLID Principles in Embedded Applications
   
   10. Best Practices
-  * &nbsp; &nbsp; &nbsp;   Example ( [1]() , [2]() , [3]() )
 
 
 
