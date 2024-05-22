@@ -19,13 +19,13 @@ This repository contains code examples for a condensed course on *Design Pattern
   05. Object-Oriented Design Patterns
   
   06. Creational Patterns: Factory Method, Singleton
-  * &nbsp; &nbsp; &nbsp;   Example ( [1](./Src/06.%20Creational%20Patterns/Ex1-Singleton) , [2](./Src/06.%20Creational%20Patterns/Ex2-Factory) , [3](./Src/06.%20Creational%20Patterns/Ex3-Globals) )
+  * &nbsp; &nbsp; &nbsp;   Example ( [Singleton](./Src/06.%20Creational%20Patterns/Ex1-Singleton) , [Factory](./Src/06.%20Creational%20Patterns/Ex2-Factory) , [Globals](./Src/06.%20Creational%20Patterns/Ex3-Globals) )
 
   07. Structural Patterns: Adapter, Decorator, Facade
-  * &nbsp; &nbsp; &nbsp;   Example ( [1](./Src/07.%20Structural%20Patterns/Ex1-Adapter) , [2](./Src/07.%20Structural%20Patterns/Ex2-Decorator) )
+  * &nbsp; &nbsp; &nbsp;   Example ( [Adapter](./Src/07.%20Structural%20Patterns/Ex1-Adapter) , [Decorator](./Src/07.%20Structural%20Patterns/Ex2-Decorator) )
   
   08. Behavioral Patterns: State Machine, Observer, Strategy
-  * &nbsp; &nbsp; &nbsp;   Example ( [1](./Src/08.%20Behavioral%20Patterns/Ex1-StateMachine) , [2](./Src/08.%20Behavioral%20Patterns/Ex2-Observer) , [3](./Src/08.%20Behavioral%20Patterns/Ex3-Strategy) )
+  * &nbsp; &nbsp; &nbsp;   Example ( [State Machine](./Src/08.%20Behavioral%20Patterns/Ex1-StateMachine) , [Observer](./Src/08.%20Behavioral%20Patterns/Ex2-Observer) , [Strategy](./Src/08.%20Behavioral%20Patterns/Ex3-Strategy) )
   
   09. SOLID Principles in Embedded Applications
   
